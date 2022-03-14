@@ -5,7 +5,7 @@ var year = prompt("Année : ");
 var result = bisextile(year);
 
 alert(result);
-// permat d'indiquer les mois de février de 29 jours
+// permet d'indiquer les mois de février de 29 jours
 
 function bisextile(année)
 {
