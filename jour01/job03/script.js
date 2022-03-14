@@ -1,0 +1,1 @@
+console.log('Hello Java'); //Affiche ce message dans la console
