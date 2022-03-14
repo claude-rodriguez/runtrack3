@@ -1,0 +1,1 @@
+alert('Hello Javascript !'); //Affiche ce message dans la box
