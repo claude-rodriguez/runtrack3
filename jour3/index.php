@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">  <title>Runtrack 3 - Jour 1 - Job 2</title>   
+    </head>
+    
+    <body>
+        <article id="myarticle">
+        </article>
+            <button id="button">afficher</button> 
+            <button id="buttoncacher">cacher</button> 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script type = "text/javascript" src="script.js"></script>   
+    </body>
+</html>
